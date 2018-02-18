@@ -1,0 +1,38 @@
+1. Headline left border & Menu hover color & button color : #e8bf5d
+2. Header Number color : #f3f3f3
+3. Style1 : #fff
+4. Style2 : #111111
+5. Background Image color : #e8bf5d
+6. Quote color : #6f6f6f
+7. Logo font color : #111111
+8. P color : #666666
+9. container width : 1100px & 1180px
+10. 
+
+font: playfairdisplay bold regular
+OpenSans
+MyriadPro regular
+Lato Regular
+
+
+
+
+
+
+https://pingendo.com/index.html
+
+
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Lato', sans-serif;
+
+
+
+
+
+
+
+
+
+
